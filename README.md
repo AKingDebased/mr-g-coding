@@ -10,4 +10,4 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * html basics
 * css basics
 
-### submit your homework right [here](http://mr-g-coding.divshot.io/lessons/submission)!
+### submit your homework right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform?usp=send_form)!

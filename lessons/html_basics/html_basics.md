@@ -2,7 +2,7 @@
 
 ### so you wanna build a webpage
 
-building a website really isn't all that hard.  every time you want to make a new web page, you'll need to copy the following code into your codio:
+building a website really isn't all that hard.  every time you want to make a new web page, you'll need to copy the following code into your page:
 
 ```
 <html>
@@ -19,6 +19,8 @@ building a website really isn't all that hard.  every time you want to make a ne
 
 we use this exact same code every time we want to make a new webpage.  code that looks exactly the same and does the same thing every time you use it is called **boilerplate code** (it's a reference to the writing on those big boilers people sometimes have in their basements.  trust me on this one).
 
+if the page you are creating is your home page, it should be called `index.html`.  otherwise, you can call it whatever you like, e.g. `your-page-name.html`
+
 ### tags
 you're probably noticing all of those words surrounded by `<` and `>` symbols, like `head` and `body`.  in html, whenever a word is surrounded by `<` and `>`, we call it a **tag**.
 
@@ -34,7 +36,7 @@ there are a whole lot of tags in the world of HTML.  here are just a couple:
 * `<img src='www.yoururl.com'>` - **the image tag**.  this is a special tag that allows you to put an image on your website.  it does not use a closing tag, and it has a special `src` **attribute**.  all you need to do is set the `src` attribute equal to your image's link, e.g. `<img src='https://s-media-cache-ak0.pinimg.com/736x/45/22/f5/4522f50716482945a2536f14205220f2.jpg'>`
 * `<!-- your comment here -->` -- **the comment tag.** this is a special tag that lets you write notes to yourself that won't appear on your web page.  anything you put in the comment tag will not show up on your page, but will show up in your code.
 
-there are a ton more tags, but for now, these are the ones we're going to work with. try typing the following code into your codio, and see what happens.  **DO NOT COPY PASTE.** it is tempting, but your brain and fingers need to get used to typing code out.
+there are a ton more tags, but for now, these are the ones we're going to work with. try typing the following code into your `index.html`, and see what happens.  **DO NOT COPY PASTE.** it is tempting, but your brain and fingers need to get used to typing code out.
 
 ```
 <html>
@@ -82,5 +84,49 @@ for example:
   <body>
   <!-- the body tag is inside the html tag, but it's not inside the head tag, so it should be
   indented the same amount as the head tag -->
+    <div>
+    <!-- this div tag is inside the body tag, so it gets indented -->
+      <p> <!-- this paragraph tag is inside the div tag, so it's indented even further --></p>
+    </div>
   </body>
+</html>
+```
+
+### linking to other pages
+
+every good website has some way to link to other pages.  what fun is it if your website is only one page?  
+
+there's a special tag we use for just such a purpose: the **anchor tag**, which looks like this: `<a href='your link here'></a>`.  linking to new pages is a little tricky, but not too much.
+
+try typing this into your `index.html`, and see what happens:
+
+```
+<html>
+  <head>
+  <!-- the head tag is inside the html tag, so it gets indented -->
+  </head>
+  <body>
+    <a href='http://www.google.com/''>this is a link to google!</a>
+  </body>
+</html>
+```
+
+here are the steps you need to follow:
+
+1. create a new page in your `pages` folder.  it should be called `yourpagename.html`, making sure to include the `.html` at the end.  you can't use white space when you name pages, so do this `page-name-with-spaces.html`, not this `you can't do this!.html`
+2. create an anchor tag in your `index.html`.  
+3. in that anchor tag, set the 'href' attribute equal to your new page.  to do this, you need to type in the following: `<a href='pages/your-page-name.html'></a>`.  this is called **linking to a local file.** we do this when the page we want to link to is in our codio, and not yet on the internet.
+
+and now you've done it!  your code should look something like this:
+
+```
+<html>
+  <head>
+  <!-- the head tag is inside the html tag, so it gets indented -->
+  </head>
+  <body>
+    <a href='pages/your-page-name.html'>this is a link to my new page!</a>
+  </body>
+</html>
+
 ```

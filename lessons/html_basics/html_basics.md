@@ -130,3 +130,60 @@ and now you've done it!  your code should look something like this:
 </html>
 
 ```
+
+### some more tags
+
+like i said earlier, there are *tons* of html tags.  here are just a few more:
+
+* `<hr>` - **the horizontal rule tag**.  this tag creates a horizontal line across your page.  it's great for putting a nice line right beneath your title. the horizontal rule tag does not have a closing tag.
+* `<em></em>` - **the emphasis tag**.  this tag italicizes whatever you write in it.
+* `<strong></strong>` - **the strong tag**.  this tag bolds whatever you write in it.
+* `<ol></ol>` - **the ordered list tag**.  this tag creates a list using numbers.  you need to make sure to include **list item tags** in it, or else it won't work.  list item tags look like this: `<li></li>`
+* `<ul></ul>` - **the unordered list tag**. works exactly like the ordered list, except it uses bullet points.
+
+try typing the following into your `index.html`:
+
+```
+<html>
+  <head>
+  <!-- the head tag is inside the html tag, so it gets indented -->
+  </head>
+  <body>
+    <div>
+      <h3>let's show off our new tags.</h3>
+      <hr>
+      <p>check out this <strong>bold</strong> and <em>italicized</em> text.</p>
+      <ol>
+        <li>item one!</li>
+        <li>item two!</li>
+        <li>item three!</li>
+      </ol>
+
+      <ul>
+        <li>item one!</li>
+        <li>item two!</li>
+        <li>item three!</li>
+      </ul>
+    </div>
+  </body>
+</html>
+```
+
+### classwork
+
+create a web page that talks all about you.  tell me your favorite books, movies, tv shows, video games, anything at all that you like to do for fun.  while you're doing that, make sure you do all of the following:
+
+* correctly set up your web page with a head and body
+* use divs to properly divide your page's content
+* use some header tags
+* use some paragraph tags
+* use a horizontal rule tag
+* use some formatted text (`<em></em>`,`<strong></strong>`, etc)
+* use an ordered and an unordered list
+* throw in plenty of images!
+* write a few *secret comments* that only show up in your code
+* link to multiple pages that you created
+
+don't stress out about making it look pretty or perfect.  we'll have loads of time to make everything shiny and chrome.  for now, just get used to using these tags properly.
+
+once you're all done, make sure you submit your work [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/edit).

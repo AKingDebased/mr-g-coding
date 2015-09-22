@@ -11,3 +11,6 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * css basics
 
 ### submit your homework right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform?usp=send_form)!
+
+### want extra credit? found a mistake?  have a suggestion?
+submit your observations [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AhJZ9k8wqtevnSiqbgj0w72Z9GqTcPTQy_iIwrMJoeA/viewform?usp=send_form).  if i agree with you, you'll get extra credit.

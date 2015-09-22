@@ -186,4 +186,4 @@ create a web page that talks all about you.  tell me your favorite books, movies
 
 don't stress out about making it look pretty or perfect.  we'll have loads of time to make everything shiny and chrome.  for now, just get used to using these tags properly.
 
-once you're all done, make sure you submit your work [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/edit).
+once you're all done, make sure you submit your work [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform?usp=send_form).

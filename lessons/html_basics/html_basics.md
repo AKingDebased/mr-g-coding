@@ -13,7 +13,7 @@ building a website really isn't all that hard.  every time you want to make a ne
   <body>
   <!-- everything you want to see on your webpage should go here -->
 
-  <body>
+  </body>
 </html>
 ```
 
@@ -67,7 +67,7 @@ there are a ton more tags, but for now, these are the ones we're going to work w
         <img src='http://media.wizards.com/images/magic/daily/ftl/ftl149_volcanicDragon.jpg'>
         <p>awesome.</p>
     </div>
-  <body>
+  </body>
 </html>
 ```
 

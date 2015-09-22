@@ -22,7 +22,7 @@ once there, you're gonna wanna click that nice, blue `NEW PROJECT` button in the
 
 all you need to do is give your project a name, and click `CREATE`.  **that's it**.  you don't have to click **anything else**.  your project name can be whatever you like; i suggest something descriptive, like `mr g coding`.
 
-if you've done it right, you'll see this screen:
+if you've done it right, you'll see your **project view**:
 
 ![good god, i think you've done it](http://i.imgur.com/3tOXntD.png)
 
@@ -32,4 +32,14 @@ and that's it!  you have done it.  codio is set up.  give yourself a round of ap
 
 ### the file structure
 
-you are so close to readiness.  all you need to do now is set up your files correctly.  
+you are so close to readiness.  all you need to do now is set up your files correctly. the left side of your project view is where all your files and folders will go. a properly set up **file structure** looks like this:
+
+![come on, you can do this](http://i.imgur.com/8WVfrvx.png)
+
+the **file structure** is how you organize your html, css, javascript, image, and other files.  you'll see that it is made up of an img folder, a js (javascript) folder, a css (cascading style sheets, aka the stuff that gives you colors and shapes and other cool stuff) folder, a pages folder, and an index.html file.  
+
+in order to create a **folder**, you will right click on the **root directory** folder and click **new folder** in the pop up window.  the root directory is the folder which all of your other folders and files go inside.  your root directory will always have the same name as your project.  here's what it looks like when you're creating a new folder:
+
+![a whole new folder](http://i.imgur.com/cD0dNWF.png)
+
+once you click on `new folder`, you'll have the option to give it a name.  make sure you make the same number of folders as i have, and with the exact same names.

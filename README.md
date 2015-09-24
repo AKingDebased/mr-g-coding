@@ -4,15 +4,16 @@
 
 welcome to mr g's coding class!  this is where you'll find links to all the lessons, classwork, and assignments, as well as the homework submission page.
 
-**NOTE:** if you have a question, make sure you check through the day's lesson again!  your answer is probably waiting somewhere there.
+### mr. g, mr. g!  how do i ... ?! ###
 
-( check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub) )
+* check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub)
+* check out the [extra credit leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
 
 
 
 ## lessons
 * [getting started](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01-getting_started/getting_started.md)
-* [html basics]https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)
+* [html basics](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)
 * css basics - coming soon
 
 ## homework
@@ -23,8 +24,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * homework 1 - coming soon
 
 ## extra credit
-<iframe width="472.5131202432017" height="877.7281108719053" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=1752364831&amp;format=interactive"></iframe>
-
+* [leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
 * coming soon
 
 

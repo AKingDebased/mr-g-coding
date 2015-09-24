@@ -4,7 +4,7 @@
 
 building a website really isn't all that hard.  every time you want to make a new web page, you'll need to copy the following code into your page:
 
-```
+```html
 <html>
   <head>
   <!-- this is where all your CSS links go -->
@@ -38,7 +38,7 @@ there are a whole lot of tags in the world of HTML.  here are just a couple:
 
 there are a ton more tags, but for now, these are the ones we're going to work with. try typing the following code into your `index.html`, and see what happens.  **DO NOT COPY PASTE.** it is tempting, but your brain and fingers need to get used to typing code out.
 
-```
+``` html
 <html>
   <head>
   <!-- this is where all your CSS links go -->
@@ -76,7 +76,7 @@ no matter what tags you use, the most important thing is that you **always put y
 **a note on cleanliness**: you probably noticed in my code sample above that i indent some of my tags.  the general rule of thumb is that if a tag is inside another tag, it should get one indentation.
 
 for example:
-```
+``` html
 <html>
   <head>
   <!-- the head tag is inside the html tag, so it gets indented -->
@@ -100,13 +100,13 @@ there's a special tag we use for just such a purpose: the **anchor tag**, which 
 
 try typing this into your `index.html`, and see what happens:
 
-```
+``` html
 <html>
   <head>
   <!-- the head tag is inside the html tag, so it gets indented -->
   </head>
   <body>
-    <a href='http://www.google.com/''>this is a link to google!</a>
+    <a href='http://www.google.com/'>this is a link to google!</a>
   </body>
 </html>
 ```
@@ -119,7 +119,7 @@ here are the steps you need to follow:
 
 and now you've done it!  your code should look something like this:
 
-```
+``` html
 <html>
   <head>
   <!-- the head tag is inside the html tag, so it gets indented -->
@@ -143,7 +143,7 @@ like i said earlier, there are *tons* of html tags.  here are just a few more:
 
 try typing the following into your `index.html`:
 
-```
+``` html
 <html>
   <head>
   <!-- the head tag is inside the html tag, so it gets indented -->

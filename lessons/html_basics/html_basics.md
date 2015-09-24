@@ -2,9 +2,9 @@
 
 ### so you wanna build a webpage
 
-building a website really isn't all that hard.  every time you want to make a new web page, you'll need to copy the following code into your page: ass
+building a website really isn't all that hard.  every time you want to make a new web page, you'll need to copy the following code into your page:
 
-``` html
+```html
 <html>
   <head>
   <!-- this is where all your CSS links go -->

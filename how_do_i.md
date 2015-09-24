@@ -2,6 +2,29 @@
 
 ![even john cena can't believe it](https://i.imgur.com/1Jy4MYN.jpg)
 
+## ... see what my website really looks like?!
+
+first, make sure you've saved all of your work.  to do that, you'll click on the `file` dropdown on the top of your codio screen, then click `save all files`.  looks like this:
+
+![can't miss it](http://i.imgur.com/EpaiTEK.png)
+**note:** you can also hit `ctrl + s` to save your work without going to the `file` drop down.
+
+once all your work is saved, you will right click on the name of the file you want to preview, then click on `preview static`.  looks just like this:
+
+![let's see that code](http://i.imgur.com/NNhz1Ha.png)
+
+once you've done that, a new window will pop up showing you what your website really looks like!  super rad.
+
+## ... link to my website/submit my homework/classwork?!
+
+remember how we talked about using the `preview static` button? well, we did, in the previously answered question.  if you look at your preview page, you'll notice there's a bar at the top of it with a link inside:
+
+![hey, look, it's right there](http://i.imgur.com/4YN1PMU.png)
+
+that circled link works like any other link.  if you type it into a web browser, you'll be able to visit it, just like a real website.
+
+when you go to submit classwork or an assignment, that is the link i will be expecting from you.
+
 ## ... link to a new page on my site?!
 
 ### ... from my index.html

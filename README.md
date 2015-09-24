@@ -4,10 +4,12 @@
 
 welcome to mr g's coding class!  this is where you'll find links to all the lessons, classwork, and assignments, as well as the homework submission page.
 
-### mr. g, mr. g!  how do i ... ?! ###
-
 * check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub)
 * check out the [extra credit leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
+
+### BEFORE ASKING ME A QUESTION, MAKE SURE YOU'VE CHECKED [THIS PAGE](https://github.com/AKingDebased/mr-g-coding/blob/master/how_do_i.md) AS WELL AS THE LESSON FOR THE DAY.
+
+#### if those pages don't answer your question, you should ask someone sitting next to you. if they don't have the answer, then and ONLY THEN should you ask me.
 
 
 
@@ -17,6 +19,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * css basics - coming soon
 
 ## homework
+### submit your homework right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform?usp=send_form)!
 * [homework 1](https://github.com/AKingDebased/mr-g-coding/blob/master/homework/homework_1.md)
 
 
@@ -24,11 +27,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * homework 1 - coming soon
 
 ## extra credit
+### found a mistake?  have a suggestion?
+submit your observations [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AhJZ9k8wqtevnSiqbgj0w72Z9GqTcPTQy_iIwrMJoeA/viewform?usp=send_form).  if i agree with you, you'll get extra credit.
 * [leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
 * coming soon
-
-
-### submit your homework right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform?usp=send_form)!
-
-### want extra credit? found a mistake?  have a suggestion?
-submit your observations [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AhJZ9k8wqtevnSiqbgj0w72Z9GqTcPTQy_iIwrMJoeA/viewform?usp=send_form).  if i agree with you, you'll get extra credit.

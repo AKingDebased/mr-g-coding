@@ -23,7 +23,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * homework 1 - coming soon
 
 ## extra credit
-<iframe width="944.5131202432017" height="877.7281108719053" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=1752364831&amp;format=interactive"></iframe>
+<iframe width="472.5131202432017" height="877.7281108719053" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=1752364831&amp;format=interactive"></iframe>
 
 * coming soon
 

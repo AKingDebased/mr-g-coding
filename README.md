@@ -8,9 +8,25 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 
 ( check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub) )
 
+
+
 ## lessons
-* html basics
-* css basics
+* [getting started](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01-getting_started/getting_started.md)
+* [html basics]https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)
+* css basics - coming soon
+
+## homework
+* [homework 1]()
+
+
+## solutions
+* homework 1 - coming soon
+
+## extra credit
+<iframe width="944.5131202432017" height="877.7281108719053" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=1752364831&amp;format=interactive"></iframe>
+
+* coming soon
+
 
 ### submit your homework right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform?usp=send_form)!
 

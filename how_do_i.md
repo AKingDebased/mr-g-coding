@@ -4,7 +4,8 @@
 
 ## ... link to a new page on my site?!
 
-well, you'll need to use an anchor tag, which looks like this: `<a href="www.yourlinkname.com">my new page!</a>` (read up on those [here](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)).  for simplicity's sake, let's say you want a link on your `index.html` page to another page in your `pages` folder.  so, first of all, make sure you **put a new web page in your `pages` folder**.  once you've done that, put the anchor tag on your `index.html` somewhere, like so:
+### ... from my index.html
+well, you'll need to use an anchor tag, which looks like this: `<a href="www.yourlinkname.com">my new page!</a>` (read up on those [here](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)).  first of all, make sure you **put a new web page in your `pages` folder**.  once you've done that, put the anchor tag on your `index.html` somewhere, like so:
 
 ``` html
 <html>
@@ -35,7 +36,38 @@ the word you type before the forward slash ( `/` ) symbol should be the name of 
 
 when you link to a page in one of your folders without using `www` or `.com`, you are doing what's called **linking to a local file**.  that means your anchor tag is digging through your files, rather than going on the internet.  pretty sweet, huh?
 
+### ... from inside the pages folder
 
+linking to a page from a page inside the `pages` folder is a little trickier, but not too much.  this is probably a good time to remind you that the ONLY `.html` file that should be outside your pages folder is the `index.html`. i repeat, there should be **NO `.html` FILES EXCEPT YOUR `index.html` OUTSIDE YOUR PAGES FOLDER**. that's why you have a pages folder in the first place.  for pages.
+
+if you're linking from **one page in the `pages` folder to another page in the `pages` folder**, all you need to do is set the `href` attribute of your `<a></a>` tag to the name of the other `.html` file, like so:
+
+``` html
+<html>
+  <head>
+  </head>
+
+  <body>
+    <a href="another-page.html">go to my new web page!</a>
+  </body>
+</html>
+```
+if you're trying to link from a page in your `pages` folder to your `index.html`, you'll need to use the step back (`../`) symbol, like so:
+
+``` html
+<html>
+  <head>
+  </head>
+
+  <body>
+    <a href="../index.html">go to my home page!</a>
+  </body>
+</html>
+```
+
+the step back (`../`) symbol steps you out of the current folder one step.  so, if you're in your pages folder, it pulls you into your root directory, where your `index.html` is.  it's the exact reverse of what we do when we link from our `index.html` to a file in our `pages` folder.
+
+super cool.
 
 ## ... use a div tag?!
 

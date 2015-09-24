@@ -17,7 +17,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * css basics - coming soon
 
 ## homework
-* [homework 1]()
+* [homework 1](https://github.com/AKingDebased/mr-g-coding/blob/master/homework/homework_1.md)
 
 
 ## solutions

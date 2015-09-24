@@ -32,4 +32,5 @@ your task, should you choose to accept it (which you do, if you want a good grad
   3. `<img>` (at least one picture per page)
   4. `<div></div>`
   5. `<hr>`
+  6. `<a></a>`
 * submit a link to your `cyoa.html` on [this page](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform)

@@ -43,3 +43,11 @@ in order to create a **folder**, you will right click on the **root directory** 
 ![a whole new folder](http://i.imgur.com/cD0dNWF.png)
 
 once you click on `new folder`, you'll have the option to give it a name.  make sure you make the same number of folders as i have, and with the exact same names.
+
+after that, you'll also be needing your own `index.html`.  i already made mine in these examples, but all you need to do is right click on the root folder icon (again, that's the folder with the same name as your project), and click `new file`.  looks something like this:
+
+![a whole new file](http://i.imgur.com/UdKPDNk.png)
+
+when you do that, a new window will pop up with a lot of text boxes and options. all you need to do is type your **file name**, which will *always* be `yourfilename.html`.  for now, all you need is an `index.html` file, which should be right inside the root folder on the same level as all your other folders so far.  if your codio screen looks exactly like my examples, then you've done it right.  great work.
+
+![i'm proud of you, son](http://i1342.photobucket.com/albums/o763/5IVE5/Gifs/4DWMk_zps48f1c55a.gif)

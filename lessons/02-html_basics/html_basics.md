@@ -171,6 +171,8 @@ try typing the following into your `index.html`:
 
 ### classwork
 
+properly set up your codio file structure.  if you don't know how to do that, or you're wondering if your structure is correct, check [here](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01-getting_started/getting_started.md) for reference.
+
 create a web page that talks all about you.  tell me your favorite books, movies, tv shows, video games, anything at all that you like to do for fun.  while you're doing that, make sure you do all of the following:
 
 * correctly set up your web page with a head and body

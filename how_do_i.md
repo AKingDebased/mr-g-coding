@@ -6,7 +6,7 @@
 
 well, you'll need to use an anchor tag, which looks like this: `<a href="www.yourlinkname.com">my new page!</a>` (read up on those [here](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)).  for simplicity's sake, let's say you want a link on your `index.html` page to another page in your `pages` folder.  so, first of all, make sure you **put a new web page in your `pages` folder**.  once you've done that, put the anchor tag on your `index.html` somewhere, like so:
 
-```
+``` html
 <html>
   <head>
   </head>
@@ -19,7 +19,7 @@ well, you'll need to use an anchor tag, which looks like this: `<a href="www.you
 
 now, your anchor tag is gonna be pretty useless if you don't give the **hyperlink reference** attribute (`href`) a value.  because you are linking to a page in your `pages` folder, you will need to use a special link.  you should NOT put a `www.page-name.com` style link in your anchor tag right now.  here's what you SHOULD do:
 
-```
+``` html
 <html>
   <head>
   </head>
@@ -42,7 +42,7 @@ when you link to a page in one of your folders without using `www` or `.com`, yo
 the whole point of the div tag (short for page division tag) is that it **groups related HTML tags together**.  so, for example, let's say you're writing an article on how rad my class is.  you might have a header for your title, a paragraph for your body text, and a picture:
 
 
-```
+``` html
 <html>
   <head>
   </head>
@@ -59,7 +59,7 @@ the whole point of the div tag (short for page division tag) is that it **groups
 
 now, i think you and i can agree that the `<h1>`, `<p>`, and `<img>` tag in that previous example are all related to one another, yes? they are all part of the same article.  well, wouldn't it be rad if there was a tag that said, "hey! all the tags between me are related somehow!"  well, let me tell you, there is such a tag:
 
-```
+``` html
 <html>
   <head>
   </head>
@@ -78,7 +78,7 @@ now, i think you and i can agree that the `<h1>`, `<p>`, and `<img>` tag in that
 
 now, if i add another article to my page, i can put all that in *another* div tag, since those tags are all related to one another but separate to my previous article:
 
-```
+``` html
 <html>
   <head>
   </head>

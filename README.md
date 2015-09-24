@@ -30,4 +30,4 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 ### found a mistake?  have a suggestion?
 submit your observations [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AhJZ9k8wqtevnSiqbgj0w72Z9GqTcPTQy_iIwrMJoeA/viewform?usp=send_form).  if i agree with you, you'll get extra credit.
 * [leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
-* [embed youtube video and google map]()
+* [embedding](https://github.com/AKingDebased/mr-g-coding/blob/master/extra_credit/embedding.md)

@@ -43,7 +43,7 @@ that's pretty cool and all, but maybe i want to change the text color in that fi
 ```
 (view my website [here](https://jsbin.com/feloho/edit?html,output))
 
-see the word `style` up there?  that's a **style attribute**, which is how we use inline styling.  the style attribute lets us say, "okay, i want to change the stuff between this tag". notice how each style attribute only changes the stuff between its pair of tags.  you need style attributes in every tag you want to change.
+see the word `style` up there?  that's a **style attribute**, which is how we use inline styling. by the way, we call it inline styling because you are typing the style attribute in the same line as the tag you want to change. the style attribute lets us say, "okay, i want to change the stuff between this tag". notice how each style attribute only changes the stuff between its pair of tags.  you need style attributes in every tag you want to change.
 
 check out this example:
 

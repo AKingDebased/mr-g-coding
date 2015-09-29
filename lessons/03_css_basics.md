@@ -1,4 +1,4 @@
-# css basics
+# css basics - pt 1
 
 so, we have some web pages, but they look pretty boring.  there's no color, all the font's the same size, and so on.  turns out, we programmers actually have a special language just for making web pages look pretty.  that language is called **CSS**, or **Cascading Style Sheets** (but we just call it CSS).
 

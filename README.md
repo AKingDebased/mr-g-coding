@@ -9,7 +9,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub)
 * check out the [extra credit leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
 
-<p style="font-size:50px">today's lesson: [css basics, pt. 1](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/03_css_basics.md)</p>
+# today's lesson: [css basics, pt. 1](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/03_css_basics.md)
 
 ### BEFORE ASKING ME A QUESTION, MAKE SURE YOU'VE CHECKED [THIS PAGE](https://github.com/AKingDebased/mr-g-coding/blob/master/how_do_i.md) AS WELL AS THE LESSON FOR THE DAY.
 

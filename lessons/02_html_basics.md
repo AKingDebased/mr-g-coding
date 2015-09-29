@@ -1,6 +1,6 @@
-## html basics
+# html basics
 
-### so you wanna build a webpage
+## so you wanna build a webpage
 
 building a website really isn't all that hard.  every time you want to make a new web page, you'll need to copy the following code into your page:
 
@@ -21,7 +21,7 @@ we use this exact same code every time we want to make a new webpage.  code that
 
 if the page you are creating is your home page, it should be called `index.html`.  otherwise, you can call it whatever you like, e.g. `your-page-name.html`
 
-### tags
+## tags
 you're probably noticing all of those words surrounded by `<` and `>` symbols, like `head` and `body`.  in html, whenever a word is surrounded by `<` and `>`, we call it a **tag**.
 
 tags are what we use to tell the web browser (like chrome, or firefox, or internet explorer) what we want to see on our webpage.  for example, if we want to see a new paragraph, we use the `<p>` tag.  most tags require a closing tag, which just means you need to add a forward slash, like this: `<p>this is a new paragraph!</p>`  
@@ -92,7 +92,7 @@ for example:
 </html>
 ```
 
-### linking to other pages
+## linking to other pages
 
 every good website has some way to link to other pages.  what fun is it if your website is only one page?  
 
@@ -131,7 +131,7 @@ and now you've done it!  your code should look something like this:
 
 ```
 
-### some more tags
+## some more tags
 
 like i said earlier, there are *tons* of html tags.  here are just a few more:
 
@@ -169,7 +169,7 @@ try typing the following into your `index.html`:
 </html>
 ```
 
-### classwork
+## classwork
 
 properly set up your codio file structure.  if you don't know how to do that, or you're wondering if your structure is correct, check [here](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01-getting_started/getting_started.md) for reference.
 

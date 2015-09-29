@@ -1,6 +1,6 @@
-## getting started
+# getting started
 
-### setting up codio
+## setting up codio
 
 in order to create websites, you're gonna need a text editor and somewhere to store all your files.  since we're using chrome books, we don't have the luxury of downloading a text editor and storing our files on our computer.  instead, we'll be using a super neat service called [codio](https://codio.com/).
 
@@ -30,7 +30,7 @@ and that's it!  you have done it.  codio is set up.  give yourself a round of ap
 
 ![and the crowd goes wild](https://i.imgur.com/lbP4iQj.gif)
 
-### the file structure
+## the file structure
 
 you are so close to readiness.  all you need to do now is set up your files correctly. the left side of your project view is where all your files and folders will go. a properly set up **file structure** looks like this:
 

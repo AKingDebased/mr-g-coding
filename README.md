@@ -4,8 +4,12 @@
 
 welcome to mr g's coding class!  this is where you'll find links to all the lessons, classwork, and assignments, as well as the homework submission page.
 
+
+
 * check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub)
 * check out the [extra credit leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
+
+<p style="font-size:50px">today's lesson: [css basics, pt. 1](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/03_css_basics.md)</p>
 
 ### BEFORE ASKING ME A QUESTION, MAKE SURE YOU'VE CHECKED [THIS PAGE](https://github.com/AKingDebased/mr-g-coding/blob/master/how_do_i.md) AS WELL AS THE LESSON FOR THE DAY.
 
@@ -15,9 +19,10 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 ### submit all homework, classwork, and extra credit right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform)
 
 ## lessons
-* [getting started](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01-getting_started/getting_started.md)
-* [html basics](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02-html_basics/html_basics.md)
-* css basics - coming soon
+* [getting started](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01_getting_started.md)
+* [html basics](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02_html_basics.md)
+* [css basics](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/03_css_basics.md)
+
 
 ## homework
 * [homework 1](https://github.com/AKingDebased/mr-g-coding/blob/master/homework/homework_1.md)

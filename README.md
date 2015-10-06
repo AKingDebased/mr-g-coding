@@ -18,6 +18,8 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 
 ### submit all homework, classwork, and extra credit right [here](https://docs.google.com/a/citycharterschools.org/forms/d/1AD0OK_p00y98UfO0xhwJZ1oXv0K6EDa1xfpmWFzhbso/viewform)
 
+### didn't like a grade you got? send your corrections for partial credit [here](https://docs.google.com/a/citycharterschools.org/forms/d/1HxGMuW_U75weHe2tLYNp1Hls90LjWFS_T6skRS5MJLs/viewform?usp=send_form)
+
 ## lessons
 * [getting started](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/01_getting_started.md)
 * [html basics](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/02_html_basics.md)

@@ -31,7 +31,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 
 
 ## solutions
-* homework 1 - coming soon
+* [html basics classwork](solutions/html_basics_classwork.md)
 
 ## extra credit
 ### found a mistake?  have a suggestion?

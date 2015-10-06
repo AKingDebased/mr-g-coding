@@ -31,7 +31,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 
 
 ## solutions
-* [html basics classwork](solutions/html_basics_classwork.md)
+* [html basics classwork](https://github.com/AKingDebased/mr-g-coding/blob/master/solutions/html_basics_classwork.md)
 
 ## extra credit
 ### found a mistake?  have a suggestion?

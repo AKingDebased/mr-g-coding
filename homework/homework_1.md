@@ -1,4 +1,4 @@
-# homework 1 - choose your own adventure (due 9/29)
+# homework 1 - choose your own adventure (due 10/20)
 
 have you ever read a choose your own adventure (cyoa) book? they look like this guy right here:
 

@@ -187,7 +187,7 @@ here's an example of all those properties in action:
 ```
 (view my code [here](https://jsbin.com/lamecu/edit?html,output))
 
-### classwork
+### classwork - due 10/29
 we're gonna make a new web page that talks about your dream vacation. this can be to a real world place, or somewhere totally made up (if i may offer some suggestions, i hear westeros and the shire are both lovely this time of year)
 
 1. create a brand new page in your `pages` folder called `my-dream-vacation.html`. this file should **NOT** be in the same folder as your `index.html`

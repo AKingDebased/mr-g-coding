@@ -203,3 +203,124 @@ we're gonna make a new web page that talks about your dream vacation. this can b
 10. throw in at least one animated gif
 11. have at least one secret comment in the code
 12. HAVE FUN! look at it this way: you could be doing algebra right now
+
+# CSS basics - pt 2
+
+hey, it's mr. g here. just want to let you know: you're doing a super job. really super. hey, did you get a haircut? looks great. oh, look, you embedded a video on to your web page! great work. 100 points to ravenclaw (you are a ravenclaw, aren't you? mr. g sure is).
+
+anyway, no more fun. back to business.
+
+## the `<style>` tag
+
+inline styles are great and all, but you've probably noticed that your HTML page starts getting pretty crowded really quickly.  you know what would be even better? that's right, if we could put all of our CSS in one organized place.  turns out, we can!
+
+in the previous section, we took a look at this code:
+
+``` html
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+  <div style="background-color:yellow">
+      <img src="http://i.imgur.com/Qgmc6gP.jpg" style="height:300px">
+
+    <p style="color:blue">wow, CSS really let's you do anything!</p>
+
+    <img src="http://i.imgur.com/Qgmc6gP.jpg" style="height:500px;width:100px">
+  </div>
+
+</body>
+</html>
+```
+(view my code [here](https://jsbin.com/lamecu/edit?html,output))
+
+let's see what happens when we write the same code, but we use a `<style>` tag:
+
+``` html
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+  <style>
+    div {
+      background-color:yellow;
+    }
+
+    img{
+      height:300px;
+    }
+
+    p{
+      color:blue;
+    }
+  </style>
+</head>
+<body>
+  <div style="background-color:yellow">
+      <img src="http://i.imgur.com/Qgmc6gP.jpg">
+
+    <p>wow, CSS really let's you do anything!</p>
+
+    <img src="http://i.imgur.com/Qgmc6gP.jpg">
+  </div>
+
+</body>
+</html>
+
+```
+(view my code [here](https://jsbin.com/bareqeluhi/edit?html,output))
+
+yowza. now *that's* some organized code.
+
+## switching to `<style>` tags
+
+writing CSS in a `<style>` tag is a little different than using inline styling. first off, the `<style>` tag must **always be in the `<head> tag`.** always. no exception.
+
+``` html
+<head>
+  <style>
+    /*a style tag right in the head tag, just the way it's supposed to be*/
+  </style>
+</head>
+```
+
+all your css now needs to be written in the following format:
+
+``` html
+<head>
+  <style>
+    selector{
+      property:property-value;
+    }
+  </style>
+</head>
+```
+
+you'll replace **selector** with the name of the tag you want to change, the **property** with the name of the CSS property you want to use, and the **property-value** with what you want to change that
+property to. that's a little confusing, so let's look at it in action:
+
+```html
+<html>
+  <head>
+    <style>
+      p{
+        color:purple;
+      }
+    </style>
+  </head>
+  <body>
+    <p>i'll be purple!</p>
+    <p>i'll be purple!</p>
+    <p>i'll be purple!</p>
+  <body>
+</html>
+```
+(view my code [here](https://jsbin.com/jizasefozo/edit?html,output))
+
+### classwork - no due date yet
+
+this one is really simple, you're gonna love it. all you need to do is take your "my dream vacation" assignment, and change it so it has no inline styles.  all the css should be in a style tag.
+
+that's it! man, isn't this so much better than algebra? (don't tell your algebra teacher i said that)

@@ -291,6 +291,7 @@ all your css now needs to be written in the following format:
 ``` html
 <head>
   <style>
+  /* do not copy this code. it will not work! */
     selector{
       property:property-value;
     }

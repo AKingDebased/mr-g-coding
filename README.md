@@ -11,7 +11,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 
 ## **NEW LESSON** (finally): [css basics, pt. 2](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/03_css_basics.md)
 
-# all done with your work for the day? why not learn how to make website on [codecademy](https://www.codecademy.com/)?
+## all done with your work for the day? why not learn how to make website on [codecademy](https://www.codecademy.com/)?
 * every unit you complete is worth one point of extra credit!
 
 <hr>

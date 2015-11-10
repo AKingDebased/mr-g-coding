@@ -279,28 +279,37 @@ yowza. now *that's* some organized code.
 writing CSS in a `<style>` tag is a little different than using inline styling. first off, the `<style>` tag must **always be in the `<head> tag`.** always. no exception.
 
 ``` html
-<head>
-  <style>
-    /*a style tag right in the head tag, just the way it's supposed to be*/
-  </style>
-</head>
+<html>
+  <head>
+    <style>
+      /*a style tag right in the head tag, just the way it's supposed to be*/
+    </style>
+  </head>
+  <body>
+    <!-- no style tags here! style tags go in the <head> tag -->
+  </body>
+</html>
 ```
 
 all your css now needs to be written in the following format:
 
 ``` html
-<head>
-  <style>
-  /* do not copy this code. it will not work! */
-    selector{
-      property:property-value;
-    }
-  </style>
-</head>
+<html>
+  <head>
+    <style>
+    /* do not copy this code. it will not work! */
+      selector{
+        property:property-value;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- still no style tags here. -->
+  </body>
+</html>
 ```
 
-you'll replace **selector** with the name of the tag you want to change, the **property** with the name of the CSS property you want to use, and the **property-value** with what you want to change that
-property to. that's a little confusing, so let's look at it in action:
+you'll replace **selector** with the name of the tag you want to change, the **property** with the name of the CSS property you want to use, and the **property-value** with what you want to change that property to. that's a little confusing, so let's look at it in action:
 
 ```html
 <html>
@@ -320,8 +329,197 @@ property to. that's a little confusing, so let's look at it in action:
 ```
 (view my code [here](https://jsbin.com/jizasefozo/edit?html,output))
 
+## classes and IDs
+
+### IDs
+
+you've probably noticed that with the way we've been using `<style>` tags, we can change all the tags on our page, but not specific tags.  check out this example:
+
+```html
+<html>
+  <head>
+    <style>
+      p{
+        color:purple;
+      }
+    </style>
+  </head>
+  <body>
+    <p>i'll be purple!</p>
+    <p>i'll be red!</p>
+    <p>i'll be green!</p>
+  <body>
+</html>
+```
+(view my code [here](https://jsbin.com/hopiyuyeyu/edit?html,output))
+
+if you look open up the link to view my code, you'll see that all of those `<p>` tags are purple. well, it doesn't make a whole lot of sense to say "i'll be red!" when it's colored purple.  we can fix this using **CSS classes** and **IDs**.
+
+here's an example of the **id attribute**:
+
+```html
+<html>
+  <head>
+    <style>
+      p{
+        color:purple;
+      }
+
+      #red-text{
+        color: red;
+      }
+
+      #green-text{
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <p>i'll be purple!</p>
+    <p id ="red-text">i'll be red!</p> <!-- look! we added an id attribute -->
+    <p id="green-text">i'll be green!</p>  <!-- look! we added an id attribute -->
+  <body>
+</html>
+```
+(view my code [here](https://jsbin.com/nokifarewa/1/edit?html,output))
+
+the **id attribute** allows you to change the css of **just one HTML tag**. in the previous example, you can see that i've added an `id` attribute to two of the `<p>` tags and set that `id` attribute equal to a name (in this case, the names were `red-text` and `green-text`). then, in my `<style>` tag, i selected that `id` by typing `#name-of-the-id`. let's recap:
+
+* put an `id` attribute in an HTML tag, and set that `id` attribute to a name
+  * **NOTE**: the name doesn't really matter. try to make it a name that describes what's happening in the element, e.g. `red-text` for a paragraph where the color is turning red
+* in your `<style>` tag, type in `#` and the name you used earlier.
+* finally, type in the styles you want to apply to your tag in your CSS block.  
+
+here's another example of the `id` in use:
+
+```html
+<html>
+  <head>
+    <style>
+      #small-box{ /* see how i typed in a #, followed by the name of the id?*/
+        height:95px;
+        width:95px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="small-box">
+      all this text is gonna look really squished!
+    </div>
+    <div>
+      this text will be just fine. look how fine this text is!
+    </div>
+  <body>
+</html>
+```
+(view my code [here](https://jsbin.com/rewapuwove/edit?html,output))
+
+**REMEMBER:** the `id` attribute works on only **ONE SPECIFIC ELEMENT**.  that's why it's the "id" attribute; it's like an ID badge for just one element to wear. if you want to change multiple elements, you'll need to use the ` class` attribute.
+
+### classes
+
+the `class` attribute works almost exactly like the `id` attribute, except for one critical thing: **you can use the `class` attribute on more than one HTML element**.  check it out:
+
+```html
+<html>
+  <head>
+    <style>
+      .yellow-background{
+        /* classes use . symbols instead of #s */
+        background-color:yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="yellow-background">
+      banana yellow!
+    </div>
+
+    <div>
+      not banana yellow.
+    </div>
+
+    <div class="yellow-background">
+      also banana yellow!
+    </div>
+  <body>
+</html>
+```
+(view my code [here](https://jsbin.com/reledefonu/edit?html,output))
+
+
+
+## final review
+
+phew, we made it. that was a lot of reading, but i think we've got the basics of CSS down pat. let's take one last review at what we've talked about in pt. 2:
+
+* **tag selectors** - when we use tag names in our css blocks.  this style of css changes every single tag selected, no exceptions.
+```html
+<html>
+  <head>
+    <style>
+      p{
+        background-color:yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <p>i'm yellow!</p>
+    <p>i'm yellow!</p>
+    <p>i'm yellow!</p>
+  <body>
+</html>
+```
+(view my code [here](https://jsbin.com/focomovege/edit?html,output))
+
+* **id selectors** - using `id` attributes and the `#` symbol to change **just one HTML element**.
+```html
+<html>
+  <head>
+    <style>
+      #purple-text{
+          background-color:purple;
+        }
+    </style>
+  </head>
+
+  <body>
+    <p id="purple-text">i'm purple!</p>
+    <p>no change!</p>
+    <p>no change!</p>
+  </body>
+</html>
+```
+(view my code [here](https://jsbin.com/qawetibobi/edit?html,output))
+
+* **class selectors** - using `class` attributes and the `.` symbol to change **any number of HTML elements**
+```html
+<html>
+  <head>
+    <style>
+      .blue-text{
+          color:blue;
+        }
+    </style>
+  </head>
+
+  <body>
+    <p>not blue!</p>
+    <p class="blue-text">i'm blue!</p>
+    <p class="blue-text">i'm blue!</p>
+  </body>
+</html>
+```
+(view my code [here](https://jsbin.com/fitehayeda/edit?html,output))
+
+
+
 ### classwork - no due date yet
 
-this one is really simple, you're gonna love it. all you need to do is take your "my dream vacation" assignment, and change it so it has no inline styles.  all the css should be in a style tag.
+this one is really simple, you're gonna love it.
+
+* take your "my dream vacation" assignment, and change it so it has no inline styles.  all the css should be in a style tag.
+* make sure to use at least one `id` attribute and at least two `class` attributes.
+
 
 that's it! man, isn't this so much better than algebra? (don't tell your algebra teacher i said that)

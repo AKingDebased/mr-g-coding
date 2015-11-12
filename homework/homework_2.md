@@ -24,7 +24,7 @@ in this assignment, you'll be creating your own blog post using HTML and CSS. at
   * make sure you also use at least one `class` attribute on one of your HTML tags
 
 
-* if you're wondering what CSS properties you can use, check out [this]() cheatsheet!
+* if you're wondering what CSS properties you can use, check out [this](https://github.com/AKingDebased/mr-g-coding/blob/master/cheatsheets/css_cheatsheet.md) cheatsheet!
 
 
 

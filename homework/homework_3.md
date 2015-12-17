@@ -5,10 +5,15 @@ well, here we are. the last assignment. it's been a great time. we've had the be
 almost.
 
 ## directions
-* this last assignment will be a portfolio showcasing all the work you've done this year. it will pull together everything you've learned in coding class: all the html, all the css, and all your [gumptionn](http://www.thefreedictionary.com/gumptio).
+* this last assignment will be a portfolio showcasing all the work you've done this year. it will pull together everything you've learned in coding class: all the html, all the css, and all your [gumption](http://www.thefreedictionary.com/gumption).
 
 * you will create a website that includes all of the following:
-  * a home page that talks about you, what you learned in coding class, and **links** to every single assignment you've completed this year. think of it both like an intro to your portfolio as well as a table of contents, with each chapter being another one of your assignments.
+  * a home page that talks about you, what you learned in coding class, and **links** to every single assignment you've completed this year. think of it both like an intro to your portfolio as well as a table of contents, with each chapter being another one of your assignments. you should be linking to:
+    * html basics classwork, i.e. the about me page
+    * html basics homework, i.e. the cyoa
+    * css basics pt. 1 & 2, i.e. the dream vacation (you can't really link to part 2, so we'll call it all one big assignment)
+    * css basics homework, i.e. the blog post
+    * any extra pages that show off all the skills you've picked up (you'll earn **extra credit** for each additional page you add)
   * **every single html tag and css style we've talked about**. all of them. this includes, but is not limited to:
     * `<img>`
     * `<ol>` & `<ul>`

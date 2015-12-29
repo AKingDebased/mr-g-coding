@@ -24,4 +24,5 @@ almost.
 ## example
 
 * check out my sample portfolio [here](https://preview.c9users.io/akingdebased/mr-g-coding/index.html?_c9_id=livepreview0&_c9_host=https://ide.c9.io)!
+  * **remember**: you can right click on any web page and select `view page source` to see its HTML and CSS code
   * your portfolio does not need to look exactly like this. in fact, it should NOT just be a copy/paste of my page, or else you will receive **no credit**. use my example for inspiration!

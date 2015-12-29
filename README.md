@@ -7,7 +7,7 @@ welcome to mr g's coding class!  this is where you'll find links to all the less
 * check out the syllabus [here!](https://docs.google.com/document/d/11A65WN9dCGlhNKqRkYReLiK618N6X7UgYuk93-s2rd8/pub)
 * check out the [extra credit leaderboards](https://docs.google.com/spreadsheets/d/183HmkhTxw4rw0fnM_p_HKuGVY_c81udCDeD40wnFm7A/pubchart?oid=2112650487&format=interactive)
 
-## **NEW LESSON** (finally): [css basics, pt. 2](https://github.com/AKingDebased/mr-g-coding/blob/master/lessons/03_css_basics.md)
+## **UPDATE** i've added an example of a portfolio page to the [final assignment](homework/homework_3.md)
 
 ## all done with your work for the day? why not learn how to make website on [codecademy](https://www.codecademy.com/)?
 * every unit you complete is worth one point of extra credit!
